@@ -1,4 +1,3 @@
-<?php // TODO ページネーションのデザイン @yuka.y ?>
 <?php
 
 if($paged > 1){
